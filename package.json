@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DyncMark/autoUpdateDEMO/issues"
   },
-  "homepage": "https://github.com/DyncMark/autoUpdateDEMO#readme"
+  "homepage": "https://github.com/DyncMark/autoUpdateDEMO#readme",
+  "dependencies": {
+    "ar-meet": "^3.0.16"
+  }
 }
