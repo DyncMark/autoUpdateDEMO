@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/DyncMark/autoUpdateDEMO#readme",
   "dependencies": {
-    "ar-meet": "^3.0.0"
+    "ar-meet": "^3.0.16"
   }
 }
